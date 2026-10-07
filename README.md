@@ -73,3 +73,10 @@ Parcial2p2/
   - styles.css
   - script.js
 - README.md
+
+## Integrantes
+
+- Marjhory Odalis Alvarez Cortez
+- Manuel Ernesto Quijada Gutierrez
+- Leidy Elizabeth Landaverde Alas
+- René Vladimir Quintanilla Mancia
