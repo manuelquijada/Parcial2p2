@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicio de Transporte</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Servicio de Transporte</h1>
+        <p>Calcula el costo estimado de tu viaje</p>
+    </header>
+
+    <main>
+        <section class="calculadora">
+
+            <label for="tipo">Tipo de transporte:</label>
+
+            <select id="tipo">
+                <option value="moto">Motocicleta</option>
+                <option value="auto">Automóvil</option>
+            </select>
+
+            <label for="distancia">Distancia del viaje (km):</label>
+
+            <input
+                type="number"
+                id="distancia"
+                min="1"
+                placeholder="Ingrese la distancia"
+            >
+
+            <button id="calcular">Calcular estimación</button>
+
+            <div id="resultado"></div>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>Sistema de estimación de transporte</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
