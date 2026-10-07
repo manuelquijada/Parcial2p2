@@ -1,6 +1,10 @@
 # Parcial2p2
 Sistema de estimación de tarifas de transporte desarrollado con Python, HTML, CSS y JavaScript. Esenario C. 
 
+## Equipo
+
+ Grupo 2
+
 ## Descripción
 
 Este proyecto implementa un sistema de estimación de tarifas para servicios de transporte utilizando Programación Orientada a Objetos en Python y una interfaz web desarrollada con HTML, CSS y JavaScript.
