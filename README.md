@@ -1,5 +1,5 @@
 # Parcial2p2
-Sistema de estimación de tarifas de transporte desarrollado con Python, HTML, CSS y JavaScript.
+Sistema de estimación de tarifas de transporte desarrollado con Python, HTML, CSS y JavaScript. Esenario C. 
 
 ## Descripción
 
@@ -78,5 +78,5 @@ Parcial2p2/
 
 - Marjhory Odalis Alvarez Cortez
 - Manuel Ernesto Quijada Gutierrez
-- Leidy Elizabeth Landaverde Alas
+- Leydi Elizabeth Landaverde Alas
 - René Vladimir Quintanilla Mancia
